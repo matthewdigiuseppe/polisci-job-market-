@@ -1,0 +1,54 @@
+ads traced 231 | rows 267 | ads with a hire (hi/med): 101 | hires: 122
+confidence
+none      90
+medium    75
+low       55
+high      47
+Name: count, dtype: int64
+             n  pubs_med  pubs_p25  pubs_p75  top_med  share_any_top  solo1st_med  yrs_postphd_med  share_postdoc  share_ABD_or_0
+rank_grp                                                                                                                         
+junior    81.0       4.0      2.00      8.00      1.0           0.49          2.0              2.0           0.53            0.26
+open      29.0       5.5      3.25     13.75      1.0           0.48          3.0              4.0           0.52            0.07
+senior    12.0       9.0      5.00     13.00      1.0           0.33          4.0             12.0           0.42            0.00
+
+JUNIOR/OPEN by region
+                       n  pubs_med  pubs_p25  pubs_p75  top_med  share_any_top  solo1st_med  yrs_postphd_med  share_postdoc  share_ABD_or_0
+region                                                                                                                                     
+Asia/Middle East     7.0       3.0      2.50      4.50      0.0           0.43          2.0              2.5           0.57            0.14
+Canada               3.0       9.0      5.00      9.50      0.0           0.33          3.5              2.0           0.33            0.00
+Continental Europe  12.0       4.5      3.00      8.00      1.0           0.42          2.0              3.0           0.58            0.17
+Other                1.0       1.0      1.00      1.00      0.0           0.00          0.0              0.0           0.00            1.00
+UK/Ireland           3.0       4.5      3.25      5.75      1.5           0.67          3.5              2.0           1.00            0.00
+US                  84.0       4.0      2.00      9.00      1.0           0.51          3.0              2.0           0.51            0.23
+
+JUNIOR/OPEN by subfield
+                                 n  pubs_med  pubs_p25  pubs_p75  top_med  share_any_top  solo1st_med  yrs_postphd_med  share_postdoc  share_ABD_or_0
+subfield                                                                                                                                             
+IR                            17.0       3.5      2.25      8.50      1.5           0.59          2.5              2.0           0.35            0.18
+american                      14.0       4.0      1.00      6.25      0.5           0.43          3.0              1.0           0.50            0.36
+comparative/PE                11.0       8.0      2.00      9.50      1.0           0.55          2.0              3.0           0.45            0.18
+computational_social_science  22.0       6.0      4.00     11.00      1.0           0.50          3.0              1.0           0.68            0.14
+methods                       16.0       3.0      3.00      5.00      0.5           0.50          2.0              2.0           0.44            0.25
+open_field                    18.0       3.0      2.00      4.75      1.0           0.50          2.0              2.0           0.61            0.28
+policy/other                  12.0       7.0      1.75     11.75      0.0           0.33          5.0              3.0           0.58            0.08
+
+JUNIOR/OPEN by start year
+           n  pubs_med  pubs_p25  pubs_p75  top_med  share_any_top  solo1st_med  yrs_postphd_med  share_postdoc  share_ABD_or_0
+yr                                                                                                                             
+2022.0   2.0       2.5      2.25      2.75      1.5           1.00          2.0              4.0           1.00            0.00
+2023.0  43.0       6.0      3.25     10.75      1.0           0.51          3.0              2.0           0.49            0.26
+2024.0  33.0       3.0      2.00      6.00      1.0           0.52          2.0              2.0           0.48            0.15
+2025.0  28.0       3.5      1.25      9.00      0.0           0.43          1.0              1.0           0.54            0.25
+2026.0   4.0       5.0      2.75      9.75      0.0           0.25          4.0              1.5           1.00            0.00
+
+JUNIOR overall
+n                  110.00
+pubs_med             4.00
+pubs_p25             2.00
+pubs_p75             9.00
+top_med              1.00
+share_any_top        0.49
+solo1st_med          2.00
+yrs_postphd_med      2.00
+share_postdoc        0.53
+share_ABD_or_0       0.21
