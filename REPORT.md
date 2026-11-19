@@ -35,7 +35,7 @@ Methods and American hires are the most likely to be hired straight out of the P
 **Robustness:** including low-confidence matches (n=159 junior) gives the same medians (4 articles, 1 top, 2 years post-PhD). High-confidence-only hires look somewhat stronger (median 6 articles).
 
 ## Caveats (read before citing)
-- **Selection by list:** 87% of traced ads came from POLMETH, so the sample is quant/methods-heavy and US-heavy. Even the European hires mostly hold US PhDs (9 of 12), because European departments that post on POLMETH want US-style quant candidates. This is *not* a picture of the typical European market. EPSS coverage starts only in mid-2025, too late for most hires to be visible.
+- **Selection by list:** 92% of traced ads came only from POLMETH (213 of 231; just 18 involve EPSS), so the sample is quant/methods-heavy and US-heavy. Even the European hires mostly hold US PhDs (9 of 12), because European departments that post on POLMETH want US-style quant candidates. This is *not* a picture of the typical European market. EPSS coverage starts only in mid-2025, too late for most hires to be visible.
 - **Non-European cells are small:** the UK, Canada and Asia each have ≤7 hires, so treat those numbers as anecdotes.
 - **Inference error:** 56% of ads have no identified hire. Searches fail, get re-run, or the department site was unreadable (the Wayback Machine was unreachable). A hire can come from a later re-run of the same search.
 - **Coding error:** about 15% of hires have no publication count, and some counts come from Crossref rather than a CV, so they are likely undercounts. First-author counts are unreliable where author order is alphabetical (formal/methods).
