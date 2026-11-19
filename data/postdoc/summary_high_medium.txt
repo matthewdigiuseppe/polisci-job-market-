@@ -1,0 +1,46 @@
+ads 252 | ads w/ hire 57 | hires 73
+{'none': 167, 'high': 47, 'low': 34, 'medium': 26}
+
+OVERALL
+n                73.00
+pubs_med          2.00
+p25               0.00
+p75               3.00
+zero_pubs         0.26
+any_top           0.25
+yrs_med           0.00
+ABD_or_0          0.70
+had_prior_pd      0.14
+us_phd            0.63
+next_tt|known     0.66
+n_next_known     32.00
+
+BY type
+                            n  pubs_med   p25  p75  zero_pubs  any_top  yrs_med  ABD_or_0  had_prior_pd  us_phd  next_tt|known  n_next_known
+type                                                                                                                                        
+center_fellowship        23.0       1.0  0.50  3.5       0.26     0.26      0.0      0.78          0.22    0.83           0.83          12.0
+data_science_fellowship   5.0       1.0  0.00  3.0       0.40     0.20      0.0      1.00          0.00    1.00           1.00           4.0
+independent_fellowship    3.0       2.0  1.50  3.0       0.00     0.33      0.0      0.67          0.00    0.67           1.00           1.0
+project_postdoc          41.0       2.0  0.25  3.0       0.24     0.24      0.0      0.61          0.12    0.46           0.40          15.0
+teaching_postdoc          1.0       0.0  0.00  0.0       1.00     0.00      0.0      1.00          0.00    1.00            NaN           0.0
+
+BY region
+                           n  pubs_med  p25   p75  zero_pubs  any_top  yrs_med  ABD_or_0  had_prior_pd  us_phd  next_tt|known  n_next_known
+region                                                                                                                                     
+DACH                    11.0       3.0  0.0  4.00       0.36     0.27      0.0      0.73          0.09    0.27            NaN           0.0
+Nordic/Benelux           3.0       2.0  1.0  3.50       0.33     0.67      0.0      0.67          0.00    0.33           0.00           1.0
+Other                    3.0       2.0  2.0  6.50       0.00     0.33      2.0      0.00          0.67    0.00           0.00           2.0
+Southern Europe/France   8.0       1.0  0.0  2.00       0.38     0.12      0.0      0.50          0.12    0.38           0.00           3.0
+UK/Ireland               8.0       0.0  0.0  1.00       0.50     0.00      0.0      0.75          0.12    0.38           0.33           3.0
+US                      40.0       1.5  1.0  3.25       0.18     0.28      0.0      0.78          0.12    0.90           0.87          23.0
+
+BY subfield
+                                 n  pubs_med   p25   p75  zero_pubs  any_top  yrs_med  ABD_or_0  had_prior_pd  us_phd  next_tt|known  n_next_known
+subfield                                                                                                                                          
+IR                             6.0       1.0  1.00  2.00       0.00     0.17      0.0      0.50          0.17    0.83           0.67           3.0
+american                       8.0       3.0  1.00  4.00       0.12     0.25      0.0      0.75          0.00    0.88           0.67           3.0
+comparative/PE                24.0       1.0  0.00  2.00       0.33     0.33      0.0      0.58          0.21    0.54           0.36          11.0
+computational_social_science  19.0       2.0  0.50  3.50       0.26     0.26      0.0      0.89          0.11    0.53           0.90          10.0
+methods                        7.0       3.0  1.50  4.00       0.14     0.14      0.0      0.71          0.14    0.71           1.00           2.0
+open_field                     2.0       1.5  1.25  1.75       0.00     0.50      0.0      1.00          0.00    1.00           1.00           1.0
+policy/other                   7.0       0.0  0.00  7.50       0.57     0.00      0.0      0.57          0.14    0.57           0.50           2.0
